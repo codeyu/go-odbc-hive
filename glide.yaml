@@ -1,3 +1,4 @@
 package: .
 import:
 - package: github.com/alexbrainman/odbc
+- package: github.com/gin-gonic/gin
