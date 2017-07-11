@@ -1,0 +1,6 @@
+hash: d0bb7a542ed331553e644cfef6bed906dda9a12804c0f315056ae095a86b69d3
+updated: 2017-07-11T15:18:38.0765719+08:00
+imports:
+- name: github.com/alexbrainman/odbc
+  version: 632bcac255d9e26a89bff5eff914d449e431f7b5
+testImports: []
